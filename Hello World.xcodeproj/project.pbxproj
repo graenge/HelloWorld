@@ -18,6 +18,11 @@
 		E92A0DD617CC8AD600C316C6 /* Default-568h@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = E92A0DD517CC8AD600C316C6 /* Default-568h@2x.png */; };
 		E92A0DD917CC8AD600C316C6 /* ViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = E92A0DD817CC8AD600C316C6 /* ViewController.m */; };
 		E92A0DDC17CC8AD600C316C6 /* ViewController.xib in Resources */ = {isa = PBXBuildFile; fileRef = E92A0DDA17CC8AD600C316C6 /* ViewController.xib */; };
+		E92A0DE417CC95B900C316C6 /* NakskovLaunchImage.png in Resources */ = {isa = PBXBuildFile; fileRef = E92A0DE217CC95B900C316C6 /* NakskovLaunchImage.png */; };
+		E92A0DE517CC95B900C316C6 /* NakskovLaunchImage@2.png in Resources */ = {isa = PBXBuildFile; fileRef = E92A0DE317CC95B900C316C6 /* NakskovLaunchImage@2.png */; };
+		E92A0DE717CC95D700C316C6 /* NakskovLaunchImage.png; NakskovLaunchImage@2-568h@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = E92A0DE617CC95D700C316C6 /* NakskovLaunchImage.png; NakskovLaunchImage@2-568h@2x.png */; };
+		E92A0DE917CC961300C316C6 /* NakskovLaunchImage.png; NakskovLaunchImage@2.png in Resources */ = {isa = PBXBuildFile; fileRef = E92A0DE817CC961300C316C6 /* NakskovLaunchImage.png; NakskovLaunchImage@2.png */; };
+		E92A0DEB17CC961B00C316C6 /* NakskovLaunchImage.png; NakskovLaunchImage@2@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = E92A0DEA17CC961B00C316C6 /* NakskovLaunchImage.png; NakskovLaunchImage@2@2x.png */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -37,6 +42,11 @@
 		E92A0DD717CC8AD600C316C6 /* ViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = ViewController.h; sourceTree = "<group>"; };
 		E92A0DD817CC8AD600C316C6 /* ViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = ViewController.m; sourceTree = "<group>"; };
 		E92A0DDB17CC8AD600C316C6 /* en */ = {isa = PBXFileReference; lastKnownFileType = file.xib; name = en; path = en.lproj/ViewController.xib; sourceTree = "<group>"; };
+		E92A0DE217CC95B900C316C6 /* NakskovLaunchImage.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = NakskovLaunchImage.png; path = ../../../Screens/billeder/NakskovLaunchImage.png; sourceTree = "<group>"; };
+		E92A0DE317CC95B900C316C6 /* NakskovLaunchImage@2.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "NakskovLaunchImage@2.png"; path = "../../../Screens/billeder/NakskovLaunchImage@2.png"; sourceTree = "<group>"; };
+		E92A0DE617CC95D700C316C6 /* NakskovLaunchImage.png; NakskovLaunchImage@2-568h@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "NakskovLaunchImage.png; NakskovLaunchImage@2-568h@2x.png"; sourceTree = "<group>"; };
+		E92A0DE817CC961300C316C6 /* NakskovLaunchImage.png; NakskovLaunchImage@2.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "NakskovLaunchImage.png; NakskovLaunchImage@2.png"; sourceTree = "<group>"; };
+		E92A0DEA17CC961B00C316C6 /* NakskovLaunchImage.png; NakskovLaunchImage@2@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "NakskovLaunchImage.png; NakskovLaunchImage@2@2x.png"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -56,6 +66,9 @@
 		E92A0DB317CC8AD600C316C6 = {
 			isa = PBXGroup;
 			children = (
+				E92A0DEA17CC961B00C316C6 /* NakskovLaunchImage.png; NakskovLaunchImage@2@2x.png */,
+				E92A0DE817CC961300C316C6 /* NakskovLaunchImage.png; NakskovLaunchImage@2.png */,
+				E92A0DE617CC95D700C316C6 /* NakskovLaunchImage.png; NakskovLaunchImage@2-568h@2x.png */,
 				E92A0DC517CC8AD600C316C6 /* Hello World */,
 				E92A0DBE17CC8AD600C316C6 /* Frameworks */,
 				E92A0DBD17CC8AD600C316C6 /* Products */,
@@ -96,6 +109,8 @@
 		E92A0DC617CC8AD600C316C6 /* Supporting Files */ = {
 			isa = PBXGroup;
 			children = (
+				E92A0DE217CC95B900C316C6 /* NakskovLaunchImage.png */,
+				E92A0DE317CC95B900C316C6 /* NakskovLaunchImage@2.png */,
 				E92A0DC717CC8AD600C316C6 /* Hello World-Info.plist */,
 				E92A0DC817CC8AD600C316C6 /* InfoPlist.strings */,
 				E92A0DCB17CC8AD600C316C6 /* main.m */,
@@ -163,6 +178,11 @@
 				E92A0DD417CC8AD600C316C6 /* Default@2x.png in Resources */,
 				E92A0DD617CC8AD600C316C6 /* Default-568h@2x.png in Resources */,
 				E92A0DDC17CC8AD600C316C6 /* ViewController.xib in Resources */,
+				E92A0DE417CC95B900C316C6 /* NakskovLaunchImage.png in Resources */,
+				E92A0DE517CC95B900C316C6 /* NakskovLaunchImage@2.png in Resources */,
+				E92A0DE717CC95D700C316C6 /* NakskovLaunchImage.png; NakskovLaunchImage@2-568h@2x.png in Resources */,
+				E92A0DE917CC961300C316C6 /* NakskovLaunchImage.png; NakskovLaunchImage@2.png in Resources */,
+				E92A0DEB17CC961B00C316C6 /* NakskovLaunchImage.png; NakskovLaunchImage@2@2x.png in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
